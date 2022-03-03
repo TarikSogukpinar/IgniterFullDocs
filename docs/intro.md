@@ -2,22 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Ignıter Hakkında
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<!-- Let's discover **Docusaurus in less than 5 minutes**. -->
 
-## Getting Started
+## Başlarken
 
-Get started by **creating a new site**.
+Ignıter resmi olarak **01.05.2021**  tarihinde geliştirmeye başlandı. Framework olarak 
+son sürüm **qb-core** alt yapısını kullanmaktadır. Klasik Esx alt yapısını tercih etmiyoruz ve desteklemiyoruz. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Geliştirme süreci
 
-### What you'll need
+- Igniter'da kullanılan hiç bir sistem test edilmeden. Sunucuya dahil edilmez.
+-  Klasik çalışa yeterli! geliştirici mantığına oldukça uzağız. 
+- Vizyonumuz kullanıcı dostu arayüz ile Playerların en sağlıklı ve sorunsuz oyun ortamına ulaşmasını sağlamak
+- En güncel sistemleri kullanmaya çalışıyoruz. Comminty tarafından kabul edilen
+ve bütün oyuncuların kendi sunucularında görmesini istediği sistemler geliştiriyoruz. Refactor ediyoruz!
+- Hiç bir geliştiricinin emeğini çöpe atma derdinde değiliz. Public bir şekilde paylaşılmış bütün sistemleri paylaşan kişinin crediti ile eklemeye özen gösterdik
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
+### Devamlılık
+
+Taktir edersiniz ki yazılım ürünleri geliştirmek ve ortaya koymak günümüzde her ne kadar bir çok tool sayesinde eskiye nazaran biz geliştiricilerin işini kolaylaştırmış olsada bir yazılım oraya koyma işi zor ve dikkat isteyen bir disiplin. Geliştirdiğimiz her sistem üzerinde oldukça kafa yormaya çalışıp gameplay akışına etkilerini düşünüyoruz ve bunu önemsiyoruz.
+
+### Hedefler
+
+Henüz bu projenin oldukça başında olsakta hedeflerimiz her vizyoner gibi büyük
+Amacımız bu projeye her geliştiricinin ilerleyen süreçte katkı sağlamasını sağlamak!
+
+<!-- - [Node.js](https://nodejs.org/en/download/) version 14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Amacı ve Çalışması
 
 Generate a new Docusaurus site using the **classic template**.
 
@@ -44,4 +59,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->

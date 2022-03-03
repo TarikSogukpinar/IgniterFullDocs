@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Kullanması Kolay',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Dosyalama sistemi diğer geliştiricilerin işini kolaylaştıracak şekilde düzenli ve anlamlı bir şekilde yapılandırıldı.
+      İç içe geçmiş dosyalar ne işe yaradığı belli olmayan kod blokları kullanmıyoruz!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Gerçekten Optimize',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Igniter Projesi diğer roleplay paketlerinden farklı olarak zevkle ve titizlikle tasarlandı. Çalışsa yeterli 
+       mantığıyla hiç bir zaman yaklaşmadık yaklaşmıyoruz. Aktif olarak test ettiğimiz oyuncu sayısı güncel olarak; <strong>70 Online</strong>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Temiz Kod',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Igniter Projesi yeni gelecek özellikler ve güncellemeler için kolay ve anlışılabilir bir alt yapı sunar geliştirici yeni özellikler
+        eklemek için zorlanmayacak. Proje içerisin'deki sistemler "SOLID" kurallarına uygun olarak yazıldı. Beğenmediğimiz yerleri dönüp "Recaftoring" ettik.
       </>
     ),
   },

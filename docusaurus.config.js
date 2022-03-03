@@ -6,15 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: '🔥 Igniter V1',
+  tagline: '',
+  url: 'https://github.com',
+  baseUrl: '/IgniterDocs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'TarikSogukpinar', // Usually your GitHub org/user name.
+  projectName: 'IgniterDocs', // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   presets: [
     [
@@ -43,7 +44,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Igniter V1',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -53,9 +54,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Başlarken',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Hakkımda', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -76,37 +77,31 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Topluluk',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+             
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/pxFjmauqbJ',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/TarikSogukpinar',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Daha Fazlası',
             items: [
               {
-                label: 'Blog',
+                label: 'Hakkımda',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+             
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} By Ledun v.1.0.0`,
       },
       prism: {
         theme: lightCodeTheme,
