@@ -1,0 +1,28 @@
+---
+id: dosya
+title: Dosya Yapisi
+---
+Igniter klasik roleplay paketlerinden ayri olarak 
+düzenli bir dosyalama yapisi sunar ve diğer geliştiricilere kolaylik sağlar!
+
+
+Anlamli **değişken, function, method** isimledirmeleri düzgün dosyalama
+ve daha bir çok kolaylik aradiğiniz tüm gerekli yönlendirmeleri paket
+içerisinde bulabileceksiniz. Bu neymiş acaba bu ne işe yariyor gibi 
+vakit kaybettirici, can sikici işlere gerek duymuyoruz!
+create-a-page.md
+**Script bazinda dosyalama sistemimiz de oldukça nizami!** 
+
+## **Örnekler**
+
+## **Genel Resource Yapisi**
+
+![Settings Window](https://i.ibb.co/KjnHtdK/Screenshot-1.png)
+
+## **Sistem içerisinde olan bütün sistemleri tek tek ayirip düzenliyoruz**
+
+![Settings Window](https://i.ibb.co/L8mBgwJ/Screenshot-2.png)
+
+## **Örnek Script Resource Yapisi (qb-target)**
+
+![Settings Window](https://i.ibb.co/54GKRrB/Screenshot-3.png)
