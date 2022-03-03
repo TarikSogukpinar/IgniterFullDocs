@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Igniter Roleplay',
   tagline: 'Igniter Framework Roleplay Sunucuları İçin Gelişmiş Roleplay Paketi',
-  url: 'https://DevArchitecture.net',
+  url: 'https://github.com/TarikSogukpinar',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'TarikSoğukpinar', // Usually your GitHub org/user name.
-  projectName: 'DevArchitecture', // Usually your repo name.
+  projectName: 'Ignıter', // Usually your repo name.
   plugins: [require.resolve('docusaurus-lunr-search')],
   themeConfig: {
     navbar: {
