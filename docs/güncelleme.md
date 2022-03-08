@@ -3,12 +3,12 @@ id: güncelleme
 title: Güncelleme
 ---
 
-**Igniter sürekli güncellenen ve değişen sistemleri ile en kaliteliyi yakalamaya çalişir.**
+**Igniter sürekli güncellenen ve değişen sistemleri ile en kaliteliyi yakalamaya çalışır.**
 
 
 ## Yeni güncellemeler de ne var?
 
-**Sürekli geliştirilen ve değiştirilen sistemler ile bu kisim sürekli güncel tutulacak ayrica "Hotfix" güncellemelerinde buradan takip edebileceksiniz!**
+**Sürekli geliştirilen ve değiştirilen sistemler ile bu kısım sürekli güncel tutulacak ayrica "Hotfix" güncellemelerinde buradan takip edebileceksiniz!**
 
 ## Sunucu Versiyon - 1.0.0 Güncellemesi
 

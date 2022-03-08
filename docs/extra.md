@@ -5,8 +5,8 @@ title: Extralar ve UI
 
 ## **UI Görünümleri**
 
-**Sunucu içerisinde ki tüm sistemleri bu kisimdan videolu bir şekilde görüntüleyebilirsiniz.
-Ayrica kullandiğimiz "UI" tasarimlari bir çok yerde farklilik göstermektedir. Bir çok UI kismini editliyoruz.**
+**Sunucu içerisinde ki tüm sistemleri bu kısımdan videolu bir şekilde görüntüleyebilirsiniz.
+Ayrica kullandiğimiz "UI" tasarımlari bir çok yerde farklilik göstermektedir. Bir çok UI kısmını editliyoruz.**
 
 ## **Videolar**
 
