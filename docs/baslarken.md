@@ -16,7 +16,7 @@ son sürüm **qb-core** alt yapısını kullanmaktadır. Klasik Esx alt yapisini
 
 ### Geliştirme süreci
 
-- Igniter'da kullanilan hiç bir sistem test edilmeden. Sunucuya dahil edilmez.
+- Igniter'da kullanılan hiç bir sistem test edilmeden. Sunucuya dahil edilmez.
 -  Klasik çalişsa yeterli geliştirici mantığına oldukça uzağız. 
 - Vizyonumuz kullanici dostu arayüz ile Playerlarin en sağlıklı ve sorunsuz oyun ortamına ulaşmasini sağlamak
 - En güncel sistemleri kullanmaya çalışıyoruz. Community tarafından kabul edilen
