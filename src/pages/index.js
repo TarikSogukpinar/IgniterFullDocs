@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-         Dosyalama sistemi diğer geliştiricilerin işini kolaylaştiracak şekilde düzenli ve anlamli bir şekilde yapilandirildi.
-         İç içe geçmiş dosyalar ne işe yaradiği belli olmayan kod bloklari kullanmiyoruz!
+         Dosyalama sistemi diğer geliştiricilerin işini kolaylaştıracak şekilde düzenli ve anlamlı bir şekilde yapılandırıldı.
+         İç içe geçmiş dosyalar ne işe yaradığı belli olmayan kod bloklari kullanmıyoruz!
       </>
     ),
   },
@@ -22,8 +22,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Igniter Projesi diğer roleplay paketlerinden farkli olarak zevkle ve titizlikle tasarlandi. Çalişsa yeterli 
-        mantiğiyla hiç bir zaman yaklaşmadik yaklaşmiyoruz. Aktif olarak test ettiğimiz oyuncu sayisi güncel olarak; <strong>70 Online</strong>
+        Igniter Projesi diğer roleplay paketlerinden farklı olarak zevkle ve titizlikle tasarlandı. Çalışsa yeterli 
+        mantığıyla hiç bir zaman yaklaşmadik yaklaşmiyoruz. Aktif olarak test ettiğimiz oyuncu sayısı güncel olarak; <strong>70 Online</strong>
       </>
     ),
   },
@@ -32,8 +32,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Igniter Projesi yeni gelecek özellikler ve güncellemeler için kolay ve anlişilabilir bir alt yapi sunar geliştirici yeni özellikler
-        eklemek için zorlanmayacak. Proje içerisin'deki sistemler "SOLID" kurallarina uygun olarak yazildi. Beğenmediğimiz yerleri dönüp "Recafto
+        Igniter Projesi yeni gelecek özellikler ve güncellemeler için kolay ve anlaşılabilir bir alt yapi sunar geliştirici yeni özellikler
+        eklemek için zorlanmayacak. Proje içerisin'deki sistemler "SOLID" kurallarina uygun olarak yazıldı. Beğenmediğimiz yerleri dönüp "Refactor" ettik.
       </>
     ),
   }, 
