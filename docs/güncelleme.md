@@ -58,7 +58,7 @@ title: Güncelleme
 - Çöp kariştirmaya yeni eşyalar eklendi (Daha fazla eşya eklenecek..)
 - Kanama ve yere düşme olayi nerflendi.
 - Benzin bidonu ve Yangin söndürücü artik kullanildiğinda polise ihbar gitmiyor.
-- Crypto sistemi real "Bitcoin" üzerinden değer aliyor. Bitcoinin piyasa fiyati neyse oyunda ki fiyatta ayni şekilde yükselip alçalacak. Şuan ki crpyto varliklari sifirlandi. Zarariniz karşilanmasi için lütfen ticket açiniz.
+- Crypto sistemi real "Bitcoin" üzerinden değer aliyor. Bitcoinin piyasa fiyati neyse oyunda ki fiyatta ayni şekilde yükselip alçalacak. Şuan ki crpyto varliklari sifirlandi. Zarariniz   karşilanmasi için lütfen ticket açiniz.
 - Çekilmiş araçlarin yeri değiştirildi.
 - Bir kaç ufak düzeltme yapildi.
 - Giriş ekrani değiştirildi.
@@ -69,19 +69,32 @@ title: Güncelleme
 - Yeni eşyalar eklendi.
 - Bir kaç ufak düzeltme yapildi.
 
-Gang Bölgelerini haritada görebiliyorsunuz
-20'den fazla item şeklinde maske kullanılabiliyor.
-Yazıcı eklendi. URL üzerinden her hangi bir fotoğrafı item olarak ekleyebiliyorsunuz.
-İtem şeklinde kamera eklendi. Aynı şekilde üstünüze fotoğraf olarak  alabiliyorsunuz.
-Ek meslek olarak farm sistemi eklendi. İnek sağma, kesme domuz  sağma ,kesme bunun yanında Üzüm vb. Eşyaları toplayıp işleyebiliyorsunuz.
-Mevcut mesleklerde bir kaç düzenleme yapıldı.
-PD için K9 köpeği eklendi. Bu özellik aynı zamanda LSPD F3 menüsünden de kontrol edilebiliyor.
-Not defteri item olarak eklendi.
-Burger Shot mesleği eklendi. 10 Çeşitten fazla hamburger yapabiliyorsunuz. Extra olarak bir çok yeni eşyası da oyuna eklendi.
-Galerinin arka tarafında ki araç tamir istasyonu düzeltildi.
-Gördüğünüz her hangi bir soda veya su makinası ile iletişime geçebiliyorsunuz. Aynı zamanda marketlerde bulunan meyve suyu makinaları ile de iletişime geçebiliyorsunuz.
-Cat Cafe için meslek eklendi. Bir çok yiyecek, içecek üretebiliyorsunuz.
-Discord aktivitesi düzenlendi. 
-Adalet sarayı map olarak eklendi. Aynı zamanda kıyafetçi mekanları ve Bean Machine eklendi.
-Bean Machine içerisinde 10 Adet Kahve çeşidine erişilebilir.
-Triad Records Barına 10 Adet farklı alkollü içecek seçeneği eklendi. 
+## Sunucu Versiyon - 1.0.1 Güncellemesi
+
+- Gang Bölgelerini haritada görebiliyorsunuz
+- 20'den fazla item şeklinde maske kullanılabiliyor.
+- Yazıcı eklendi. URL üzerinden her hangi bir fotoğrafı item olarak ekleyebiliyorsunuz.
+- İtem şeklinde kamera eklendi. Aynı şekilde üstünüze fotoğraf olarak  alabiliyorsunuz.
+- Ek meslek olarak farm sistemi eklendi. İnek sağma, kesme domuz  sağma ,kesme bunun yanında Üzüm vb. Eşyaları toplayıp işleyebiliyorsunuz.
+- Mevcut mesleklerde bir kaç düzenleme yapıldı.
+- PD için K9 köpeği eklendi. Bu özellik aynı zamanda LSPD F3 menüsünden de kontrol edilebiliyor.
+- Not defteri item olarak eklendi.
+- Burger Shot mesleği eklendi. 10 Çeşitten fazla hamburger yapabiliyorsunuz. Extra olarak bir çok yeni eşyası da oyuna eklendi.
+- Galerinin arka tarafında ki araç tamir istasyonu düzeltildi.
+- Gördüğünüz her hangi bir soda veya su makinası ile iletişime geçebiliyorsunuz. Aynı zamanda marketlerde bulunan meyve suyu makinaları ile de iletişime geçebiliyorsunuz.
+- Cat Cafe için meslek eklendi. Bir çok yiyecek, içecek üretebiliyorsunuz.
+- Discord aktivitesi düzenlendi. 
+- Adalet sarayı map olarak eklendi. Aynı zamanda kıyafetçi mekanları ve Bean Machine eklendi.
+- Bean Machine içerisinde 10 Adet Kahve çeşidine erişilebilir.
+- Triad Records Barına 10 Adet farklı alkollü içecek seçeneği eklendi. 
+- Telefon görünümü değiştirildi (ilerleyen süreçte tamamen özgün bir telefon sistemine çevirmeyi düşünüyoruz..)
+- Gym eklendi. Target ile etkileşime geçebiliriz. Aynı zamanda F3 üzerinden lokasyonu da eklendi.
+- Araç tamir kitlerine ve temizleme kitlerine mini gameler eklendi.
+- EMS Dispatch problemi düzeltildi.
+-  Yeni bir anti cheat sistemine geçildi.
+- Ölünce telefon açabilme problemi düzeltildi.
+- Bir kaç ufak düzenleme ve türkçeleştirme yapıldı.
+- Hud menüsü F3 e eklendi bir çok fazla seçenek bulabilirsiniz.
+- LPSD için gece görüşü eklendi.
+- Database sisteminde bir kaç optimizasyon yapıldı.
+- Sistem üzerinde ki bütün iş yapan functionslar "localize" edildi. Daha hızlı çalışmalarını umuyoruz..
