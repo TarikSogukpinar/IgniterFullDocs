@@ -68,3 +68,20 @@ title: Güncelleme
 - 1 Adet yeni map eklendi.
 - Yeni eşyalar eklendi.
 - Bir kaç ufak düzeltme yapildi.
+
+Gang Bölgelerini haritada görebiliyorsunuz
+20'den fazla item şeklinde maske kullanılabiliyor.
+Yazıcı eklendi. URL üzerinden her hangi bir fotoğrafı item olarak ekleyebiliyorsunuz.
+İtem şeklinde kamera eklendi. Aynı şekilde üstünüze fotoğraf olarak  alabiliyorsunuz.
+Ek meslek olarak farm sistemi eklendi. İnek sağma, kesme domuz  sağma ,kesme bunun yanında Üzüm vb. Eşyaları toplayıp işleyebiliyorsunuz.
+Mevcut mesleklerde bir kaç düzenleme yapıldı.
+PD için K9 köpeği eklendi. Bu özellik aynı zamanda LSPD F3 menüsünden de kontrol edilebiliyor.
+Not defteri item olarak eklendi.
+Burger Shot mesleği eklendi. 10 Çeşitten fazla hamburger yapabiliyorsunuz. Extra olarak bir çok yeni eşyası da oyuna eklendi.
+Galerinin arka tarafında ki araç tamir istasyonu düzeltildi.
+Gördüğünüz her hangi bir soda veya su makinası ile iletişime geçebiliyorsunuz. Aynı zamanda marketlerde bulunan meyve suyu makinaları ile de iletişime geçebiliyorsunuz.
+Cat Cafe için meslek eklendi. Bir çok yiyecek, içecek üretebiliyorsunuz.
+Discord aktivitesi düzenlendi. 
+Adalet sarayı map olarak eklendi. Aynı zamanda kıyafetçi mekanları ve Bean Machine eklendi.
+Bean Machine içerisinde 10 Adet Kahve çeşidine erişilebilir.
+Triad Records Barına 10 Adet farklı alkollü içecek seçeneği eklendi. 
