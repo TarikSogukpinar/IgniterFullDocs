@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '🔥 Igniter V1',
+  title: 'Igniter V1',
   tagline: '',
   url: 'https://github.com',
   baseUrl: '/IgniterDocs/',
@@ -30,8 +30,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -49,14 +48,17 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
+        items: [{
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Başlarken',
           },
-          {to: '/blog', label: 'Hakkımda', position: 'left'},
+          {
+            to: '/blog',
+            label: 'Hakkımda',
+            position: 'left'
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -66,20 +68,17 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
+        links: [{
             title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            items: [{
+              label: 'Tutorial',
+              to: '/docs/intro',
+            }, ],
           },
           {
             title: 'Topluluk',
             items: [
-             
+
               {
                 label: 'Discord',
                 href: 'https://discord.gg/pxFjmauqbJ',
@@ -92,12 +91,11 @@ const config = {
           },
           {
             title: 'Daha Fazlası',
-            items: [
-              {
+            items: [{
                 label: 'Hakkımda',
                 to: '/blog',
               },
-             
+
             ],
           },
         ],

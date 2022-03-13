@@ -2,37 +2,37 @@
 sidebar_position: 1
 ---
 
-# Ignıter Hakkında
+# Igniter Hakkinda
 
 <!-- Let's discover **Docusaurus in less than 5 minutes**. -->
 
 ## Başlarken
 
-Ignıter resmi olarak **01.05.2021**  tarihinde geliştirmeye başlandı. Framework olarak 
-son sürüm **qb-core** alt yapısını kullanmaktadır. Klasik Esx alt yapısını tercih etmiyoruz ve desteklemiyoruz. 
+Igniter resmi olarak **01.05.2021**  tarihinde geliştirmeye başlandi. Framework olarak 
+son sürüm **qb-core** alt yapisini kullanmaktadir. Klasik Esx alt yapisini tercih etmiyoruz ve desteklemiyoruz. 
 
 ### Geliştirme süreci
 
-- Igniter'da kullanılan hiç bir sistem test edilmeden. Sunucuya dahil edilmez.
--  Klasik çalışa yeterli! geliştirici mantığına oldukça uzağız. 
-- Vizyonumuz kullanıcı dostu arayüz ile Playerların en sağlıklı ve sorunsuz oyun ortamına ulaşmasını sağlamak
-- En güncel sistemleri kullanmaya çalışıyoruz. Comminty tarafından kabul edilen
-ve bütün oyuncuların kendi sunucularında görmesini istediği sistemler geliştiriyoruz. Refactor ediyoruz!
-- Hiç bir geliştiricinin emeğini çöpe atma derdinde değiliz. Public bir şekilde paylaşılmış bütün sistemleri paylaşan kişinin crediti ile eklemeye özen gösterdik
+- Igniter'da kullanilan hiç bir sistem test edilmeden. Sunucuya dahil edilmez.
+-  Klasik çalişa yeterli! geliştirici mantiğina oldukça uzağiz. 
+- Vizyonumuz kullanici dostu arayüz ile Playerlarin en sağlikli ve sorunsuz oyun ortamina ulaşmasini sağlamak
+- En güncel sistemleri kullanmaya çalişiyoruz. Comminty tarafindan kabul edilen
+ve bütün oyuncularin kendi sunucularinda görmesini istediği sistemler geliştiriyoruz. Refactor ediyoruz!
+- Hiç bir geliştiricinin emeğini çöpe atma derdinde değiliz. Public bir şekilde paylaşilmiş bütün sistemleri paylaşan kişinin crediti ile eklemeye özen gösterdik
 
-### Devamlılık
+### Devamlilik
 
-Taktir edersiniz ki yazılım ürünleri geliştirmek ve ortaya koymak günümüzde her ne kadar bir çok tool sayesinde eskiye nazaran biz geliştiricilerin işini kolaylaştırmış olsada bir yazılım oraya koyma işi zor ve dikkat isteyen bir disiplin. Geliştirdiğimiz her sistem üzerinde oldukça kafa yormaya çalışıp gameplay akışına etkilerini düşünüyoruz ve bunu önemsiyoruz.
+Taktir edersiniz ki yazilim ürünleri geliştirmek ve ortaya koymak günümüzde her ne kadar bir çok tool sayesinde eskiye nazaran biz geliştiricilerin işini kolaylaştirmiş olsada bir yazilim oraya koyma işi zor ve dikkat isteyen bir disiplin. Geliştirdiğimiz her sistem üzerinde oldukça kafa yormaya çalişip gameplay akişina etkilerini düşünüyoruz ve bunu önemsiyoruz.
 
 ### Hedefler
 
-Henüz bu projenin oldukça başında olsakta hedeflerimiz her vizyoner gibi büyük
-Amacımız bu projeye her geliştiricinin ilerleyen süreçte katkı sağlamasını sağlamak!
+Henüz bu projenin oldukça başinda olsakta hedeflerimiz her vizyoner gibi büyük
+Amacimiz bu projeye her geliştiricinin ilerleyen süreçte katki sağlamasini sağlamak!
 
 <!-- - [Node.js](https://nodejs.org/en/download/) version 14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Amacı ve Çalışması
+## Amaci ve Çalişmasi
 
 Generate a new Docusaurus site using the **classic template**.
 

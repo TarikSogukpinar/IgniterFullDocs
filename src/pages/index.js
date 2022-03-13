@@ -18,10 +18,10 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Bu Dökünmantasyon Igniter Roleplay Paketi için hazırlanmıştır.
-            Açıklamalar ve anlatımlar barındırır.
+            Bu Dökünmantasyon Igniter Roleplay Paketi için hazirlanmiştir.
+            Açiklamalar ve anlatimlar barindirir.
             <br></br>
-            Paket hakkında daha detaylı bilgi için 
+            Paket hakkinda daha detayli bilgi için 
             <br></br>
           
           </Link>

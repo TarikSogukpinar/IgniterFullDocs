@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Tavsiye Edilen Uzak Sunucu Sistem Gereksinimleri
 
-**Ignıter Roleplay paketi en optimize ve her sistem gereksiniminde çalışacak düzeyde tasarlandı güncel "Resmon değerleri ortalama 1.20 & 1.30 arasıdır"**
+**Igniter Roleplay paketi en optimize ve her sistem gereksiniminde çalişacak düzeyde tasarlandi güncel "Resmon değerleri ortalama 1.20 & 1.30 arasidir"**
 
-**Bu sayılar bant hızına veya kullanılan sunucunun lokasyonuna ve diğer etkenlere göre değişiklik göstermektedir.**
+**Bu sayilar bant hizina veya kullanilan sunucunun lokasyonuna ve diğer etkenlere göre değişiklik göstermektedir.**
 
 # Sistem Gereksinimleri (Tavsiye Edilen)
 - 16GB DDR4 RAM 

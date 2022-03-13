@@ -6,8 +6,8 @@ sidebar_position: 5
 
 ## **UI Görünümleri**
 
-**Sunucu içerisinde ki tüm sistemleri bu kısımdan videolu bir şekilde görüntüleyebilirsiniz.
-Ayrıca kullandığımız "UI" tasarımları bir çok yerde farklılık göstermektedir. Bir çok UI kısmını editliyoruz.**
+**Sunucu içerisinde ki tüm sistemleri bu kisimdan videolu bir şekilde görüntüleyebilirsiniz.
+Ayrica kullandiğimiz "UI" tasarimlari bir çok yerde farklilik göstermektedir. Bir çok UI kismini editliyoruz.**
 
 ## **Videolar**
 
