@@ -98,3 +98,28 @@ title: Güncelleme
 - LPSD için gece görüşü eklendi.
 - Database sisteminde bir kaç optimizasyon yapıldı.
 - Sistem üzerinde ki bütün iş yapan functionslar "localize" edildi. Daha hızlı çalışmalarını umuyoruz..
+
+
+## Sunucu Versiyon - 1.1.1 Güncellemesi
+
+- Giriş ekranı ses kapatma eklendi ve ufak değişiklikler yapıldı.
+- Page UP ID sorunu düzeltildi.
+- Serverin GTA 5 sürümü son sürüme yükseltildi.
+- Bir kaç ufak değişiklik ve Türkçeleştirme yapıldı.
+- Sunucu cache dosyaları temizlendi.
+- LSPD Suçları tamamen Türkçeleştirildi.
+- Yeni balıkçılık sistemi getirildi. Aynı zamanda tekne ile açılıp da balık tutabiliyorsunuz. Eski sistem tamamen kaldırıldı.
+- Armor giyince silinmeme sorunu düzeltildi.
+- Bir kaç Türkçeleştirme yapıldı.
+- Araç tamir istasyonunun etki alanı genişletildi.
+- Çöp karıştırma için yeni eşyalar eklendi. İlerleyen süreçte bu eşyaları gizli bir mekanda satabileceksiniz.
+- Polis ve EMS bildirimleri değişti.
+- Ev soygunu eşyaları düzenlendi. (Saat 22 ve 5 arası ev soyabiliyorsunuz. Ayrıca eldiven takmaya dikkat edin. Polis kanıt toplayabiliyor..)
+- Ev soygunu eşyaları çeşitlendirildi.
+- Casino Mapı eklendi.
+- 2. El araç satış galerisi eklendi. Kontrat ile aracınızı satabileceksiniz.
+- Arcade Barda ki konsollar artık oynanabiliyor. 10 dan fazla oyun oynayabiliyorsunuz. Ayrıca bilet alarak belli bir süre de oyun oynama şansınız var.
+- Polis kapılarında ki hatalar giderildi. Görünümleri değiştirildi.
+- Artık Armor giyilirken yürünebiliyor.
+- Gun Shoplara SNS Pistol eklendi. (Damage i şuan için düşük)
+- Market Eşyaları düzenlendi. (4 Adet Havai fişek markete eklendi)
