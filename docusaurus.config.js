@@ -1,14 +1,24 @@
 module.exports = {
   title: 'Igniter Roleplay',
   tagline: 'Igniter Framework Roleplay Sunucuları İçin Gelişmiş Roleplay Paketi',
-  url: 'https://github.com/TarikSogukpinar',
+  url: 'http://localhost',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'TarikSoğukpinar', // Usually your GitHub org/user name.
-  projectName: 'Ignıter', // Usually your repo name.
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  organizationName: 'TarikSogukpinar',
+  projectName: 'Igniter',
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true,
+        language: ["tr", "en"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
   themeConfig: {
     navbar: {
       title: 'Igniter V1',
@@ -18,12 +28,12 @@ module.exports = {
           activeBasePath: 'docs',
           label: 'Dokümanlar',
           position: 'right',
-        }, 
+        },
         {
-          to: 'team',         
+          to: 'team',
           label: 'Ekibimiz',
           position: 'right',
-        },       
+        },
         {
           href: 'https://github.com/TarikSogukpinar',
           position: 'right',
@@ -37,11 +47,11 @@ module.exports = {
       links: [
         {
           title: 'Dokümanlar',
-          items: [ 
+          items: [
             {
               label: 'Dokümanlar',
               to: 'docs/',
-            },                   
+            },
           ],
         },
         {
@@ -50,16 +60,16 @@ module.exports = {
             {
               label: 'Discord',
               href: 'https://discord.gg/pxFjmauqbJ',
-            },            
+            },
           ],
         },
         {
           title: 'More',
-          items: [            
+          items: [
             {
               label: 'GitHub',
               href: 'https://github.com/TarikSogukpinar',
-            },            
+            },
             {
               label: 'LinkedIn',
               href: 'https://www.linkedin.com/in/tar%C4%B1k-so%C4%9Fukp%C4%B1nar/',
@@ -69,7 +79,7 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} By Ledun v.1.0.0`,
     },
-  }, 
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -79,11 +89,12 @@ module.exports = {
           // Please change this to your repo.
           //editUrl:'https://github.com/DevArchitecture',
         },
-        team: {
+        blog: {
+          path: './team',
+          routeBasePath: 'team',
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/DevArchitecture',
+          editUrl: 'https://github.com/DevArchitecture',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

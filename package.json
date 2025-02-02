@@ -12,13 +12,13 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.69",
-    "@docusaurus/preset-classic": "2.0.0-alpha.69",
-    "@mdx-js/react": "^1.6.21",
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@mdx-js/react": "^3.0.0",
+    "@easyops-cn/docusaurus-search-local": "^0.40.1",
     "clsx": "^1.1.1",
-    "docusaurus-lunr-search": "^2.1.9",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "browserslist": {
     "production": [
